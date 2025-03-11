@@ -5,7 +5,7 @@ But after some time I realized that I need some more low level programming langu
 
 ## Resources
 
-1. K&R book
+1. [Kernighan and Ritchie book](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 2. [Dr. Chuck C course website](https://www.cc4e.com)
 3. [Dr. Chuck freecodecamp video tutorial](https://youtu.be/PaPN51Mm5qQ?si=b1ZSj2p_rxfOb3Ps)
 
